@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_social_links",
+  "info": {
+    "displayName": "socialLinks",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "enumeration",
+      "enum": [
+        "GitHub",
+        "Twitter",
+        "Dribble"
+      ]
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

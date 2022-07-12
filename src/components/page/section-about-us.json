@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_section_aboutuses",
+  "info": {
+    "displayName": "sectionAboutUs",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Quem somos nós"
+    },
+    "authors": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::author.author"
+    }
+  }
+}

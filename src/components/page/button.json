@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_buttons",
+  "info": {
+    "displayName": "button",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "default": "Comprar"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
